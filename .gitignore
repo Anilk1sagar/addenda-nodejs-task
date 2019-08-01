@@ -1,0 +1,9 @@
+node_modules
+logs
+**.log**
+TODO.md
+/dist/
+/logs/
+package-lock.json
+.env
+/mysql_backup/
